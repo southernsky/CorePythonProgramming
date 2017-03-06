@@ -1,3 +1,3 @@
 # CorePythonProgramming
-正在学习PYthon
-此仓库用于存放《python核心编程》（第二版）中案例的源码，不一定完全一样
+正在学习PYthon，决定把《python核心编程》的案例代码手打一遍
+此仓库用于存放案例的源码，不完全照抄原代码
